@@ -1,8 +1,8 @@
 package main
 
 import (
-	"config"
 	"fmt"
+	"github.com/qingwenjie/config"
 )
 
 func main() {
